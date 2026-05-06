@@ -1,2 +1,3 @@
-# stxtat001_SAMOS-CORE3
-Repository for the SAMOS Core 3 component
+# Repository for the SAMOS Core 3 component
+
+This repository belongs to Noah Steixner
